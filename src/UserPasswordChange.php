@@ -18,6 +18,7 @@ use ChurchCRM\dto\SystemConfig;
 use ChurchCRM\Emails\PasswordChangeEmail;
 use ChurchCRM\Utils\InputUtils;
 use ChurchCRM\Utils\RedirectUtils;
+use ChurchCRM\Utils\LoggerUtils;
 
 $bAdminOtherUser = false;
 $bAdminOther = false;
